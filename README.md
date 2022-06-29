@@ -23,3 +23,5 @@ Things you may want to cover:
 
 * ...
 # Agenda_Rails
+Projeto Agenda feito com os conceitos de Ruby on Rails
+--> Baseado no curso da Udemy
